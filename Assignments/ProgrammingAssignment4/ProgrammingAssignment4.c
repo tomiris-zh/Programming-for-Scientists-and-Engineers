@@ -1,3 +1,7 @@
+// In addition to ProgrammingAsignment3 saves lines of 'subStrings.txt' and 'iStrings.txt' to each array of pointers; 
+// new linked list in 'oString.txt' which contain each string of original data
+// More explanation in 'HW4Fall2018_v0.9.pdf' file
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
