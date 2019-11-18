@@ -1,3 +1,11 @@
+/*Created a new BankCustomer structure type, which keeps track of customer ID, type of account
+(‘c’ for checking, ‘s’ for savings, ‘d’ for deposit), and account balance.  
+Declared an array of 10 such customers, and read in their data from this file.  At the end, written out:
+
+The average balance for all checking accounts,
+The average balance for all savings accounts, and
+The average balance for all deposit accounts.*/
+
 #include<stdio.h>
 
 typedef struct {
