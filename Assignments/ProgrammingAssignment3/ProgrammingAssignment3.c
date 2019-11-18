@@ -1,3 +1,4 @@
+// Checker strings for Palindrome and checker for occurance of particular sybctring in the string
 #include <stdio.h>
 #include <string.h>
 
