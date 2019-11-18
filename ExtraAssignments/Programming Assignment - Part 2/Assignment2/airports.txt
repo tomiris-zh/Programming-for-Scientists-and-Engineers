@@ -1,0 +1,4 @@
+Moscow +3 Sheremetevo A B C D E F
+Astana +6 Nazarbayev 1 2
+StPetersburg +3 Pulkovo 1 2 3 4 5
+London 0 Luton 1 
