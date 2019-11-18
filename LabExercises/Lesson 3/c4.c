@@ -1,3 +1,6 @@
+// GRADE CALCULATOR PROGRAM. Declared several variables of grades for the course, and assigned each of them values. Using course  
+// assessment percentages from the syllabus, calculated and displaied final percentage for the course (in floating-point number).
+
 #include <stdio.h>
 #include <math.h>
 int main (void) {
