@@ -1,0 +1,26 @@
+sta
+Astana	1	Not_Palindrome
+Astana Astana	2	Not_Palindrome
+Astana Astana Astana	3	Not_Palindrome
+owlwo	0	Is_Palindrome
+111111	0	Is_Palindrome
+222 222	0	Is_Palindrome
+Almaty	0	Not_Palindrome
+Kazakhstan	1	Not_Palindrome
+anaana	0	Is_Palindrome
+AstanaanatsA	1	Is_Palindrome
+anana	0	Is_Palindrome
+
+ana
+Astana	1	Not_Palindrome
+Astana Astana	2	Not_Palindrome
+Astana Astana Astana	3	Not_Palindrome
+owlwo	0	Is_Palindrome
+111111	0	Is_Palindrome
+222 222	0	Is_Palindrome
+Almaty	0	Not_Palindrome
+Kazakhstan	0	Not_Palindrome
+anaana	2	Is_Palindrome
+AstanaanatsA	2	Is_Palindrome
+anana	1	Is_Palindrome
+
