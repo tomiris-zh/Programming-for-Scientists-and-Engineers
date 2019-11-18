@@ -1,4 +1,5 @@
 // Checker strings for Palindrome and checker for occurance of particular sybctring in the string
+// More explanation in 'HW3Fall2018_v2.1.pdf' file
 #include <stdio.h>
 #include <string.h>
 
