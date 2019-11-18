@@ -1,3 +1,5 @@
+/*Number Guessing Game with extended description*/
+
 #include <stdio.h>
 #include<math.h>
 #include<time.h>
