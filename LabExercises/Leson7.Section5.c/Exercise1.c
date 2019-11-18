@@ -1,3 +1,7 @@
+// Loop that prints out the first 20 Fibonacci numbers.  
+// Used separate variables to keep track of the values printed out from the previous two iterations.
+
+
 #include <stdio.h>
 
 int main () {
