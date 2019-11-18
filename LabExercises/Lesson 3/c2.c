@@ -1,3 +1,7 @@
+// Measurement conversion.  Declare a variable of type double that stores a length value in meters, and assign it some value.  
+// Declare several other variables that store this same length converted into centimeters, 
+// myriameters, inches, miles, and furlongs, and output all variable values with suitable messages to the console window.
+
 #include <stdio.h>
 int main (void) {
     int m = 1;
