@@ -1,3 +1,7 @@
+// CONE PROPERTIES. Declared variables of type double that store the height and radius of the circular base of a cone, 
+// and assigned them values. Calculated the surface area, area of the circular base, and volume of the given cone, 
+// and stored these in separate variables.
+
 #include <stdio.h>
 #include <math.h>
 int main (void) {
