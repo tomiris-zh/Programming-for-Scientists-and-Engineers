@@ -1,3 +1,5 @@
+// Loop that, for a positive integer n, finds the biggest integer k for which n ≥ 2^k -> Essentially finding the integer log base-2 of n. 
+// Without usage of pow, log2, or any functions from math.h!
 #include <stdio.h>
 
 int main () {
