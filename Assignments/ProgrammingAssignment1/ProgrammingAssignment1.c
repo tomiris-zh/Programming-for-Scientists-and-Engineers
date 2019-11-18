@@ -1,4 +1,6 @@
 // Number Guessing Game
+// More explanation in 'ProgrammingAssignment1.pdf' file
+
 #include <stdio.h>
 #include<math.h>
 #include<time.h>
