@@ -1,4 +1,6 @@
 // Encryption and Decryption of File: used 'key.254' file
+// More explanation in 'HW2Fall2018-fix.pdf' and 'HW2Fall2018-Example-Updated.pdf' files
+
 #include<stdio.h>
 #include<string.h>
 
