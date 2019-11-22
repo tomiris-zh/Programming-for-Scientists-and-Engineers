@@ -1,3 +1,5 @@
+# Indicate whether given integer n is prime or not, assuming n>1.
+
 #include <stdio.h>
 #include <time.h>
 #include <math.h>

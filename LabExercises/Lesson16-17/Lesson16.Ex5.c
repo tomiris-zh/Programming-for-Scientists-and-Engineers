@@ -1,3 +1,7 @@
+# Indicate if the positive number n is an ideal number.
+# A number n is ideal if it is the sum over all its divisors (except n itself).
+# Ex: 28 with divisors 1, 2, 4, 7, 14, 28 is ideal because 1+2+4+7+14=28.
+
 #include <stdio.h>
 #include <time.h>
 #include <math.h>

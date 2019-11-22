@@ -1,3 +1,5 @@
+# Maximum value stored in the two-dimensional array with dimensions len x len.
+
 #include <stdio.h>
 
 double maxVal(int len, double arr[100][100]){

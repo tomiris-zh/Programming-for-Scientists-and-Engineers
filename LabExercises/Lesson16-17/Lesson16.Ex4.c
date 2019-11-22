@@ -1,3 +1,6 @@
+# Sum of digits of the non-negative number n in its decimal representation.
+# Ex: n = 129, returns 12 (1+2+9).
+
 #include <stdio.h>
 
 int SumofDigits(int n){
