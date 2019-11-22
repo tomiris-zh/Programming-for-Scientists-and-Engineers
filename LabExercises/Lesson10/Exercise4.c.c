@@ -1,3 +1,5 @@
+# Extension of third exercise with output of length of the longest word.
+
 #include<stdio.h>
 
 int main() {
