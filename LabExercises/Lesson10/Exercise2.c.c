@@ -1,3 +1,5 @@
+# Prompts the user to enter in some text, then changes all lower-case letters into upper-case 
+
 #include <stdio.h>
 
 int main()
