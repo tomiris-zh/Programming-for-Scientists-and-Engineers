@@ -1,3 +1,6 @@
+# Extension of the first exercise: transpose the matrix (a) and store it in a new matrix (b)
+# of dimensions C x R, and add 25 to each of its elements. Prints resulted (b).
+
 #include<stdio.h>
 
 int main() {

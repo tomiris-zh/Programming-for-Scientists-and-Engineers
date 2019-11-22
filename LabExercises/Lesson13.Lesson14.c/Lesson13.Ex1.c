@@ -1,3 +1,5 @@
+# 12 x 12 matrix for representing a multiplication table.
+
 #include<stdio.h>
 
 int main() {
