@@ -1,3 +1,6 @@
+# Prompts the user to enter in some words, then outputs the length of each of the words.
+# (words can have more than one whitespace character between them)
+
 #include<stdio.h>
 
 int main() {
