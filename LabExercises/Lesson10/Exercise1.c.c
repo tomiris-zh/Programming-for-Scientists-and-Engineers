@@ -1,3 +1,5 @@
+# Prompts the user to enter in some text, then outputs the number of occurrences of the letter ‘a’ in the input provided.
+
 #include <stdio.h>
 
 int main()
