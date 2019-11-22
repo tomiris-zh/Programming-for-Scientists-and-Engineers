@@ -1,3 +1,6 @@
+# Copies contents of an input file, and writes them to another file.
+# The input and output file names should be provided by user at the beginning.
+
 #include <stdio.h>
 
 int main() {

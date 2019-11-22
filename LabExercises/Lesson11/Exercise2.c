@@ -1,3 +1,6 @@
+# Substitutes words found in the file values.txt in for the ‘$’ characters
+# found in story.txt, and prints the result to the console window.
+
 #include <stdio.h>
 
 int main() {

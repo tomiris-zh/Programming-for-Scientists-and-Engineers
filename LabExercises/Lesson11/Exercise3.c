@@ -1,3 +1,5 @@
+# Story generator program so that it outputs the resulting story out to a file.
+
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
